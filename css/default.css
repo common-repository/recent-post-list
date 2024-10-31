@@ -1,0 +1,43 @@
+#post_list li {
+list-style:none;
+margin-bottom:15px;
+}
+#post_list {
+width:100%;
+}
+.tml_renginys {
+float:left;
+display: flex;
+margin-right:20px;
+}
+#content_right {
+   display: flex;
+    line-height: 1.2 !important;
+    position: relative;
+    top: -5px;
+	text-align:justify;
+}
+
+#content_right strong {
+float: left;
+    line-height: 1.1 !important;
+    margin-bottom: 6px !important;
+    width: 100%;
+}
+
+.btn a {
+ display: flex;
+    float: right;font-size:14px;
+    line-height: 1.4;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+	top:2px;
+}
+
+.date {
+float: left;
+    font-size: 85%;
+    position: relative;
+    top: 3px;
+}
